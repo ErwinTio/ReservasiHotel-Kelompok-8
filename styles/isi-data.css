@@ -1,0 +1,447 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.isi-data-ueM {
+  box-sizing: border-box;
+  padding-bottom: 3.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.isi-data-ueM .group-2-FCR {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  height: 7rem;
+  background-color: #ededed;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF {
+  box-sizing: border-box;
+  padding: 1.4rem 8.2rem 1.3rem 7.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ededed;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .rose-royal-Fbj {
+  margin-right: 42.8rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB {
+  margin: 1.2rem 0rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .reservasi-UUV {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .auto-group-m8yb-DBB {
+  box-sizing: border-box;
+  padding-left: 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .auto-group-m8yb-DBB .line-21-8Z3 {
+  margin: 0.3rem 1.4rem 0rem 0rem;
+  width: 5rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .auto-group-m8yb-DBB .isi-data-3g1 {
+  margin-right: 2.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #0093ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .auto-group-m8yb-DBB .line-18-yJm {
+  margin: 0.3rem 1.3rem 0rem 0rem;
+  width: 5rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .auto-group-m8yb-DBB .pembayaran-HaM {
+  margin-right: 1.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .auto-group-m8yb-DBB .line-19-Qus {
+  margin: 0.3rem 0.5rem 0rem 0rem;
+  width: 5rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.isi-data-ueM .group-2-FCR .main-header-nTF .header-JgV .header-navigations-mKB .auto-group-m8yb-DBB .tentang-LHj {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV {
+  margin: 0rem 4.5rem 0rem 4.6rem;
+  box-sizing: border-box;
+  padding: 2.7rem 3.2rem 4.5rem 2.6rem;
+  width: calc(100% - 9.1rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #a8a8a8;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f {
+  margin-bottom: 1.9rem;
+  box-sizing: border-box;
+  padding: 2.387rem 3.6rem 4.076rem 3.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .data-pemesan-dRF {
+  margin-bottom: 3.958rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .frame-12-Mc9 {
+  margin-bottom: 1.6909rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .frame-12-Mc9 .nama-kontak-VyF {
+  margin-bottom: 1.0782rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .frame-12-Mc9 .auto-group-ky3u-2yB {
+  box-sizing: border-box;
+  padding: 1.277rem 3.1rem 1.691rem 3.1rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j {
+  width: 100%;
+  height: 10.9415rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-13-dxy {
+  margin-right: 4.8rem;
+  width: 46.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-13-dxy .no-handphone-kontak-BDo {
+  margin-bottom: 1.9734rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-13-dxy .auto-group-uns7-VkH {
+  width: 100%;
+  height: 5.9681rem;
+  display: flex;
+  align-items: center;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-13-dxy .auto-group-uns7-VkH .auto-group-jw47-SQd {
+  margin-right: 1.1rem;
+  width: 10.5rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-13-dxy .auto-group-uns7-VkH .auto-group-tvbr-gZs {
+  box-sizing: border-box;
+  padding: 1.744rem 3.8rem 1.224rem 3.8rem;
+  width: 35.2rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-10-XaV {
+  width: 62.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-10-XaV .email-kontak-Gny {
+  margin-bottom: 1.9734rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.isi-data-ueM .frame-9-qEV .data-pemesan-K9f .auto-group-qhqf-h3j .frame-10-XaV .rectangle-106-CRj {
+  width: 100%;
+  height: 5.9681rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.isi-data-ueM .frame-9-qEV .kebijakan-uqw {
+  margin-bottom: 2.6rem;
+  box-sizing: border-box;
+  padding: 2.4rem 3.9rem 4.3rem 3.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .kebijakan-uqw .kebijakan-pembatalan-dmw {
+  margin-bottom: 3.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .kebijakan-uqw .pembatalan-reservasi-tidak-dapat-di-refund-krZ {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP {
+  margin-bottom: 6.7rem;
+  width: 100%;
+  height: 32rem;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd {
+  box-sizing: border-box;
+  padding: 2.4rem 3.9rem 3.4rem 3.9rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .rincian-harga-jiV {
+  margin-bottom: 2.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .presdential-room-TuP {
+  margin: 0rem 0rem 2.3rem 7.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-y1vu-P2M {
+  margin: 0rem 19.9rem 1.4rem 7.1rem;
+  width: calc(100% - 27rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-y1vu-P2M .kamar-2-malam-Vr5 {
+  margin-right: 46.2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-y1vu-P2M .rp-10000000-25K {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-k9md-wTB {
+  margin: 0rem 20.1rem 1.9rem 7.1rem;
+  width: calc(100% - 27.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-k9md-wTB .pajak-ppn-10-fPB {
+  margin: 0.9rem 50.8rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-k9md-wTB .rp-1000000-PKB {
+  margin-bottom: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-jhtr-icM {
+  margin: 0rem 19.9rem 0rem 7.1rem;
+  width: calc(100% - 27rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-jhtr-icM .total-SoF {
+  margin: 0.9rem 62.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .auto-group-mj2b-sRP .kebijakan-pLd .auto-group-jhtr-icM .rp-11000000-Zcy {
+  margin-bottom: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.isi-data-ueM .frame-9-qEV .isi-data-GnH {
+  margin: 0rem 42.8rem 0rem 43.2rem;
+  width: calc(100% - 86rem);
+  height: 5.9rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #909090;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,374 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.pembayaran-wTj {
+  box-sizing: border-box;
+  padding-bottom: 4.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.pembayaran-wTj .group-2-fuX {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  height: 7rem;
+  background-color: #ededed;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV {
+  box-sizing: border-box;
+  padding: 1.4rem 8.2rem 1.3rem 7.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ededed;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .rose-royal-W9T {
+  margin-right: 44.1rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 {
+  margin: 1.2rem 0rem 1rem 0rem;
+  height: calc(100% - 2.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 .reservasi-jH7 {
+  margin: 0.1rem 2rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 .line-21-eey {
+  margin: 0.8rem 1.2rem 0rem 0rem;
+  width: 5rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 .isi-data-xvZ {
+  margin: 0.1rem 1.2rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 .line-18-Hhw {
+  margin: 0.2rem 1.3rem 0rem 0rem;
+  width: 5rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 .pembayaran-1P3 {
+  margin: 0rem 1.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #0093ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 .line-19-w1o {
+  margin: 0.2rem 0.5rem 0rem 0rem;
+  width: 5rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .group-2-fuX .main-header-1iV .header-YTX .header-navigations-pA9 .tentang-GJy {
+  margin-bottom: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 {
+  margin: 0rem 4.5rem 0rem 4.6rem;
+  box-sizing: border-box;
+  padding: 2.7rem 2.1rem 5.4rem 2.6rem;
+  width: calc(100% - 9.1rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #a8a8a8;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s {
+  margin-bottom: 6.7rem;
+  width: 100%;
+  height: 59.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw {
+  margin-right: 2.8rem;
+  box-sizing: border-box;
+  padding: 2.387rem 4.1rem 2.2rem 3.6rem;
+  width: 75.9rem;
+  height: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .pembayaran-HtH {
+  margin: 0rem 0rem 2.713rem 0.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .selesaikan-pembayaran-dalam-waktu-23-59-00-Qi1 {
+  margin: 0rem 0rem 4.3rem 4.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #0075ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .nomor-rekening-7MX {
+  margin: 0rem 0rem 2.7rem 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-dpjf-pFw {
+  margin: 0rem 21rem 2.9rem 21.4rem;
+  width: calc(100% - 42.4rem);
+  height: 6.4rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #acacac;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .rincian-harga-HvD {
+  margin-bottom: 2.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .presdential-room-S2R {
+  margin: 0rem 0rem 2.3rem 7.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-zx9z-xFf {
+  margin: 0rem 0rem 1.4rem 7.1rem;
+  width: calc(100% - 7.1rem);
+  display: flex;
+  align-items: center;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-zx9z-xFf .kamar-2-malam-gBf {
+  margin-right: 20.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-zx9z-xFf .rp-10000000-cLD {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-thsj-wtH {
+  margin: 0rem 0.2rem 1.4rem 7.1rem;
+  width: calc(100% - 7.3rem);
+  display: flex;
+  align-items: center;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-thsj-wtH .pajak-ppn-10-rkM {
+  margin: 0.9rem 25rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-thsj-wtH .rp-1000000-NTo {
+  margin-bottom: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-g1dd-hW5 {
+  margin-left: 7.1rem;
+  width: calc(100% - 7.1rem);
+  display: flex;
+  align-items: center;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-g1dd-hW5 .total-SiZ {
+  margin: 1.4rem 37.1rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-Cbw .auto-group-g1dd-hW5 .rp-11000000-mF3 {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-gcu {
+  box-sizing: border-box;
+  padding: 2.4rem 1.4rem 7rem 1.4rem;
+  width: 44.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-gcu .no-pesanan-123456-bjs {
+  margin: 0rem 0rem 2.7rem 2.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-gcu .rincian-pesanan-JPP {
+  margin: 0rem 0rem 0.6rem 0.2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-gcu .presidential-room-q8R {
+  margin-bottom: 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-gcu .kamar-2-malam-xyj {
+  margin: 0rem 0rem 4.2rem 0.2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-gcu .tamu-J21 {
+  margin-bottom: 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .auto-group-pnbm-s3s .data-pemesan-gcu .rendi-maulana-2Cu {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-wTj .frame-9-Av9 .isi-data-92d {
+  margin: 0rem 43.8rem 0rem 43.3rem;
+  width: calc(100% - 87.1rem);
+  height: 5.9rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #909090;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}

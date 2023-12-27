@@ -1,0 +1,1054 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.daftar-kamar-ZHX {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #7d7d7d;
+}
+.daftar-kamar-ZHX .main-header-Vgy {
+  box-sizing: border-box;
+  padding: 1.3rem 8rem 1.1rem 7.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ededed;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .main-header-Vgy .rose-royal-Qow {
+  margin: 0rem 87.4rem 0.1rem 0rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #484848;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .main-header-Vgy .initial-options-uVo {
+  width: 9.8rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM {
+  width: 100%;
+  height: 122.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z {
+  width: 36.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .profile-u8R {
+  box-sizing: border-box;
+  padding: 6.718rem 10.929rem 4rem 10.919rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(238, 238, 238, 0.9333333373);
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .profile-u8R .carbon-user-avatar-filled-q25 {
+  margin-bottom: 1.5184rem;
+  width: 14.2523rem;
+  height: 14.264rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .profile-u8R .admin-x6h {
+  margin-left: 0.0102rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T {
+  box-sizing: border-box;
+  padding-bottom: 13.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(238, 238, 238, 0.9333333373);
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .rectangle-102-NAR {
+  margin: 0rem 2.2rem 16.5rem 2.1rem;
+  width: calc(100% - 4.3rem);
+  height: 0.3rem;
+  background-color: #000000;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .dashboard-5Kj {
+  margin-bottom: 10rem;
+  box-sizing: border-box;
+  padding: 1.1rem 5rem 1.8rem 3.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(72, 72, 72, 0.349999994);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .dashboard-5Kj .menu-C9T {
+  margin-right: 3.1rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .dashboard-5Kj .dashboard-KUy {
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .data-RY1 {
+  margin-bottom: 10rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.6rem 1.4rem 2.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(72, 72, 72, 0.349999994);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .data-RY1 .user-male-Ycd {
+  margin-right: 1.6rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .data-RY1 .data-pelanggan-gTw {
+  margin-bottom: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .room-mVP {
+  margin-bottom: 10rem;
+  box-sizing: border-box;
+  padding: 1.5rem 10.6rem 1.4rem 3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(72, 72, 72, 0.349999994);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .room-mVP .two-beds-hP3 {
+  margin-right: 7.2rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .room-mVP .kamar-Rpq {
+  margin-bottom: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .check-vWh {
+  box-sizing: border-box;
+  padding: 0.3rem 7.25rem 0.2rem 3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(72, 72, 72, 0.349999994);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .check-vWh .door-sensor-checked-Fos {
+  margin-right: 5.15rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .auto-group-kq9m-Z4Z .menu-T3T .check-vWh .check-in-check-out-P9P {
+  max-width: 15.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs {
+  box-sizing: border-box;
+  padding: 1.9rem 0rem 22.7rem 1rem;
+  width: 100.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .daftar-kamar-ydP {
+  margin: 0rem 0rem 2rem 3.1rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo {
+  box-sizing: border-box;
+  padding: 1.3rem 0.7rem;
+  width: 100%;
+  height: 91.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ededed;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf {
+  width: 95.6rem;
+  height: 87rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH {
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .id-FjK {
+  width: 7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .type-M1f {
+  width: 15.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .tersedia-eFf {
+  width: 9.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .kosong-8wX {
+  width: 10.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .auto-group-ntw9-2X7 {
+  width: 34.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .auto-group-ntw9-2X7 .service-mUh {
+  width: 25.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .auto-group-ntw9-2X7 .kotor-Et5 {
+  width: 9.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .tabel-atas-izH .gambar-XcH {
+  width: 18.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd {
+  width: 100%;
+  height: 16.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .id-xBo {
+  box-sizing: border-box;
+  padding: 0.75rem 1.7rem 0.75rem 2.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .type-qFb {
+  box-sizing: border-box;
+  padding: 0.75rem 1.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .tersedia-XPK {
+  box-sizing: border-box;
+  padding: 0.75rem 2.2rem;
+  width: 9.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .kosong-1JV {
+  box-sizing: border-box;
+  padding: 0.75rem 1.2rem;
+  width: 10.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .auto-group-55fh-JYV {
+  width: 34.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .auto-group-55fh-JYV .service-41s {
+  box-sizing: border-box;
+  padding: 0 0.8rem;
+  width: 25.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .auto-group-55fh-JYV .service-41s .ncdsjcnscs-nxasjcjasca-nasjnc-nCm {
+  max-width: 12.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .auto-group-55fh-JYV .kotor-szu {
+  box-sizing: border-box;
+  padding: 0.75rem 1.8rem;
+  width: 9.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .gambar-Yr9 {
+  box-sizing: border-box;
+  padding: 6rem 6.2rem 6.1rem 6.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-101-ctd .gambar-Yr9 .edit-image-ghT {
+  width: 6.3rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR {
+  width: 100%;
+  height: 16.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .id-jfj {
+  box-sizing: border-box;
+  padding: 0.75rem 1.3rem 0.75rem 2.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .type-pBP {
+  box-sizing: border-box;
+  padding: 0.75rem 1.7rem;
+  width: 15.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .tersedia-JMT {
+  box-sizing: border-box;
+  padding: 0.75rem 2.2rem;
+  width: 9.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .kosong-BRF {
+  box-sizing: border-box;
+  padding: 0.75rem 1.2rem;
+  width: 10.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .auto-group-4ufu-3iM {
+  width: 34.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .auto-group-4ufu-3iM .kotor-z7o {
+  box-sizing: border-box;
+  padding: 0.75rem 1.8rem;
+  width: 9.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .auto-group-4ufu-3iM .service-FpR {
+  width: 25.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .gambar-Nu3 {
+  box-sizing: border-box;
+  padding: 6rem 6.2rem 6.1rem 6.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-102-bpR .gambar-Nu3 .edit-image-6q3 {
+  width: 6.3rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To {
+  width: 100%;
+  height: 16.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .id-ZCq {
+  box-sizing: border-box;
+  padding: 0.75rem 1.4rem 0.75rem 2.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .type-qRF {
+  box-sizing: border-box;
+  padding: 0.75rem 1.7rem;
+  width: 15.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .tersedia-ijw {
+  box-sizing: border-box;
+  padding: 0.75rem 2.2rem;
+  width: 9.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .kosong-zhT {
+  box-sizing: border-box;
+  padding: 0.75rem 1.2rem;
+  width: 10.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .auto-group-j57y-V8R {
+  width: 34.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .auto-group-j57y-V8R .kotor-qCH {
+  box-sizing: border-box;
+  padding: 0.75rem 1.8rem;
+  width: 9.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .auto-group-j57y-V8R .service-K7T {
+  width: 25.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .gambar-ppu {
+  box-sizing: border-box;
+  padding: 6rem 6.2rem 6.1rem 6.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-103-2To .gambar-ppu .edit-image-ZnV {
+  width: 6.3rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 {
+  width: 100%;
+  height: 16.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .id-1uP {
+  box-sizing: border-box;
+  padding: 0.75rem 1.1rem 0.75rem 2.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .type-hnD {
+  box-sizing: border-box;
+  padding: 0.75rem 1.7rem;
+  width: 15.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .tersedia-nof {
+  box-sizing: border-box;
+  padding: 1.55rem 4.5rem 1.55rem 2.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .kosong-Giq {
+  box-sizing: border-box;
+  padding: 0.75rem 1.2rem;
+  width: 10.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .auto-group-wtsh-9nd {
+  width: 34.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .auto-group-wtsh-9nd .kotor-WNH {
+  box-sizing: border-box;
+  padding: 0.75rem 1.8rem;
+  width: 9.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .auto-group-wtsh-9nd .service-zHT {
+  width: 25.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .gambar-vB7 {
+  box-sizing: border-box;
+  padding: 6rem 6.2rem 6.1rem 6.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-104-h81 .gambar-vB7 .edit-image-FDP {
+  width: 6.3rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF {
+  width: 100%;
+  height: 16.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .id-uHw {
+  box-sizing: border-box;
+  padding: 0.75rem 1.3rem 0.75rem 2.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .type-ncd {
+  box-sizing: border-box;
+  padding: 0.75rem 1.7rem;
+  width: 15.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .tersedia-H3b {
+  box-sizing: border-box;
+  padding: 0.75rem 2.2rem;
+  width: 9.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .kosong-9rV {
+  box-sizing: border-box;
+  padding: 0.75rem 1.2rem;
+  width: 10.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .auto-group-7seb-RZ7 {
+  width: 34.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .auto-group-7seb-RZ7 .kotor-B2V {
+  box-sizing: border-box;
+  padding: 0.75rem 1.8rem;
+  width: 9.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .auto-group-7seb-RZ7 .service-ruK {
+  width: 25.3rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .gambar-P8Z {
+  box-sizing: border-box;
+  padding: 6rem 6.2rem 6.1rem 6.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.daftar-kamar-ZHX .auto-group-y6t5-QxM .page-rHs .abu-gXo .tabel-buf .item-105-AbF .gambar-P8Z .edit-image-usb {
+  width: 6.3rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
